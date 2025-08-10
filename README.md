@@ -11,6 +11,10 @@ A Python implementation for running OpenAI's gpt-oss open-source models locally 
 - **Variable Reasoning Levels**: Configure reasoning effort (low/medium/high)
 - **Performance Monitoring**: Track token usage, response times, and reasoning quality
 
+## Resources
+
+📺 **[Watch the lecture on GPT-OSS models](https://www.youtube.com/watch?v=5UjqIdqunVU)** - Comprehensive overview of the models and their capabilities
+
 ## Quick Start
 
 ### 1. Install Ollama and Dependencies
